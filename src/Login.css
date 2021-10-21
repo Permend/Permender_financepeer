@@ -1,0 +1,13 @@
+.loginpage{
+    margin-top: 100px;
+}
+
+.loginpage input{
+    border: 1px solid rgb(143, 135, 135);
+    height: 25px;
+    border-radius: 3px;
+    margin: 3px;
+}
+.loginpage Button{
+    margin: 1px;
+}
